@@ -1,2 +1,5 @@
 # hello-world
-A repository
+
+Hi there!
+
+I just started learning C++ and Python
